@@ -1,4 +1,8 @@
 # MostMentionedPoke
+
+Process can be found here: <br>
+https://medium.com/@gl7526/most-mentioned-pok%C3%A9mon-in-r-pokemon-from-the-galar-pok%C3%A9dex-86b902a498df
+
 Most mentioned Pokémon names from r/Pokemon using only Pokémon in the Galar Pokédex
 
 400 Pokémon in the Galarian Pokédex
