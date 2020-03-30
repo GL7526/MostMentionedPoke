@@ -1,4 +1,4 @@
-# MostMentionedPoke
+# Most Mentioned Pokemon
 
 Process can be found here: <br>
 https://medium.com/@gl7526/most-mentioned-pok%C3%A9mon-in-r-pokemon-from-the-galar-pok%C3%A9dex-86b902a498df
